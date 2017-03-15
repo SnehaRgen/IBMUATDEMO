@@ -22,7 +22,6 @@ var _companydetails =
                 }
                 var tempData;
                 if ($('#chkTempData').is(":checked") == true) {
-                    //alert("Checkbox is checked.");
                     tempData = "true";
                 }
                 else
